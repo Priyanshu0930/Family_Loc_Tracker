@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FamilyTracker</string>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="relation_array">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Son</item>
+        <item>Daughter</item>
+        <item>Other</item>
+    </string-array>
+</resources>
